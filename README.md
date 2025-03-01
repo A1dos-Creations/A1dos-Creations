@@ -5,7 +5,7 @@
 ## 💫 My name is A1dos, and I love to code!
 
 ### Previous Projects:
-<a href="https://github.com/A1dos-Creations/STL"><img alt="Static Badge" src="https://img.shields.io/badge/STL%20-%20blue?style=for-the-badge&label=Chrome%20Web%20Store"></a>
+<a href="https://github.com/A1dos-Creations/STL"><img alt="Static Badge" src="https://img.shields.io/badge/STL%20-%20blue?style=for-the-badge&label=Repository"></a>
 <a href="https://github.com/A1dos-Creations/login-api-website"><img alt="Static Badge" src="https://img.shields.io/badge/STL%20Auth%20-%20orange?style=for-the-badge&label=Authentication%20Website"></a>
 <a href="https://paypal.me/a1dos?country.x=US&locale.x=en_US"><img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%92%96%20Donating!%20-%20green?style=for-the-badge&label=Consider"></a>
 
