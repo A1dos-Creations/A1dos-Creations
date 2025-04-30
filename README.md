@@ -3,6 +3,7 @@
 ![A1DOS CREATIONS (2)](https://github.com/user-attachments/assets/2d49ed72-2486-419e-a58d-3403c3e17a53)
 
 ## 💫 My name is A1dos, and I love to code!
+### ALL SERVICES HAVE BEEN SHUT DOWN DUE TO A LACK OF FUNDING. PLEASE CONSIDER DONATING ❣️
 
 ### Previous Projects:
 <a href="https://github.com/A1dos-Creations/STL"><img alt="Static Badge" src="https://img.shields.io/badge/STL%20-%20blue?style=for-the-badge&label=Repository"></a>
