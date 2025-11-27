@@ -5,9 +5,11 @@
 <a href="https://paypal.me/a1dos?country.x=US&locale.x=en_US">
 <img width="1920" height="1080" alt="Untitled design (6)" src="https://github.com/user-attachments/assets/5a376f52-f441-45a9-ba93-cca96fe1b1ac" />
 </a>
-## 💫 My name is A1dos, and I love to code!
-### ALL SERVICES HAVE BEEN SHUT DOWN DUE TO A LACK OF FUNDING. PLEASE CONSIDER DONATING ❣️
 
+
+## ALL SERVICES HAVE BEEN SHUT DOWN DUE TO A LACK OF FUNDING. PLEASE CONSIDER DONATING ❣️
+
+<!--
 ### Previous Projects:
 <a href="https://github.com/A1dos-Creations/STL"><img alt="Static Badge" src="https://img.shields.io/badge/STL%20-%20blue?style=for-the-badge&label=Repository"></a>
 <a href="https://github.com/A1dos-Creations/login-api-website"><img alt="Static Badge" src="https://img.shields.io/badge/STL%20Auth%20-%20orange?style=for-the-badge&label=Authentication%20Website"></a>
@@ -19,3 +21,4 @@
 
 
 - 🚀 What are my goals? - My main goal is to make school a bit easier for students. I've had problems getting to school portals and tools, with my new extension, those problems go away! My goal is to erradicate any unnecessary hassle in the school enviroment (online, that is).
+-->
