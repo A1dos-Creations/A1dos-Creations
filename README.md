@@ -2,8 +2,9 @@
 
 ![A1DOS CREATIONS (2)](https://github.com/user-attachments/assets/2d49ed72-2486-419e-a58d-3403c3e17a53)
 
+<a href="https://paypal.me/a1dos?country.x=US&locale.x=en_US">
 <img width="1920" height="1080" alt="Untitled design (6)" src="https://github.com/user-attachments/assets/5a376f52-f441-45a9-ba93-cca96fe1b1ac" />
-
+</a>
 ## 💫 My name is A1dos, and I love to code!
 ### ALL SERVICES HAVE BEEN SHUT DOWN DUE TO A LACK OF FUNDING. PLEASE CONSIDER DONATING ❣️
 
